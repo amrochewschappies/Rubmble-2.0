@@ -5398,7 +5398,7 @@ MonoBehaviour:
         z: 3.226638
       Rotation:
         value:
-          x: 0.5659135
+          x: 0.5659136
           y: -0.5194968
           z: 0.56697154
           w: -0.29733515
@@ -15103,6 +15103,10 @@ PrefabInstance:
       propertyPath: CooldownSlider
       value: 
       objectReference: {fileID: 1210189342}
+    - target: {fileID: 7201309745677969064, guid: f040fbafe63a3454fb6e3f86ffca3268, type: 3}
+      propertyPath: CooldownSlider
+      value: 
+      objectReference: {fileID: 363994381}
     - target: {fileID: 7441689749859342941, guid: f040fbafe63a3454fb6e3f86ffca3268, type: 3}
       propertyPath: m_DefaultControlScheme
       value: Keyboard&Mouse
@@ -16780,7 +16784,7 @@ Canvas:
   m_Enabled: 1
   serializedVersion: 3
   m_RenderMode: 1
-  m_Camera: {fileID: 0}
+  m_Camera: {fileID: 2050533511}
   m_PlaneDistance: 0.3
   m_PixelPerfect: 0
   m_ReceivesEvents: 1
@@ -19052,11 +19056,6 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 462700352}
   m_SourcePrefab: {fileID: 100100000, guid: 160aa6681662d1e439840995f85c9622, type: 3}
---- !u!20 &1839803491 stripped
-Camera:
-  m_CorrespondingSourceObject: {fileID: 679962333359521696, guid: f040fbafe63a3454fb6e3f86ffca3268, type: 3}
-  m_PrefabInstance: {fileID: 1436834608}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1840770599 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 160aa6681662d1e439840995f85c9622, type: 3}
@@ -21504,7 +21503,7 @@ Canvas:
   m_Enabled: 1
   serializedVersion: 3
   m_RenderMode: 1
-  m_Camera: {fileID: 1839803491}
+  m_Camera: {fileID: 478600707}
   m_PlaneDistance: 0.3
   m_PixelPerfect: 0
   m_ReceivesEvents: 1
